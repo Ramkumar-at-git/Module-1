@@ -16,8 +16,8 @@ To write a Python program to find the smallest between three integer numbers usi
 
 ## PROGRAM
 ```python
-# Reg.No- 212222060100
-# Name- Jothivanan T
+# Reg.No- 212223063005
+# Name- Ramkumar Y 
 
 num1 = int(input())
 num2 = int(input())
